@@ -2,10 +2,10 @@
 Personal Testing Project 
 ---
 ## Identity
-**NaMe— Only F!XA??**
+**DEVELOPER - IDENTITY??**
 | Field | Value |
 | --- | --- |
-| Owner Name | OnlyF!XA?? |
+| Owner Name | Only F!XA?? |
 | Owner Number | 923448170040 |
 | Region | Pakistan |
 | Province | Khyber_Pakhtoon_Khwa |
