@@ -1,0 +1,8 @@
+{
+  "name": "baileys",
+  "version": "1.0.0",
+  "description": "Compatibility adapter: re-exports X-Bails (Baileys 6.7.4) and provides the fork-era APIs expected by Hollow-v7.2 (InteractiveMessage, MessageRetryMap, relayWAMessage, removeAuthState, generateMessageTag).",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
