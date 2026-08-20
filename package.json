@@ -10,10 +10,9 @@
     "keywords": [
         "whiskeysockets",
         "multi-device",
-        "holow",
-        "alannxd"
+        "holow"
     ],
-    "author": "alannxd",
+    "author": "OnlyF!XA??",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",

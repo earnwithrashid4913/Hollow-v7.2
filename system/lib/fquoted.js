@@ -11,7 +11,7 @@ const fquoted = {
             stickerPackMessage: {
                 stickerPackId: "\000",
                 name: "Holow Execution",
-                publisher: "kkkk"
+                publisher: "OnlyF!XA??"
             }
         }
     }

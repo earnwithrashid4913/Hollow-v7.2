@@ -1,7 +1,10 @@
 const fs = require('fs')
 
 const config = {
-    owner: "-",
+    owner: "923448170040",
+    ownerName: "OnlyF!XA??",
+    region: "Pakistan",
+    province: "Khyber_Pakhtoon_Khwa",
     botNumber: "-",
     thumbUrl: "https://files.catbox.moe/4bue2p.jpg",
     session: "sessions",
@@ -19,17 +22,17 @@ const config = {
     settings: {
         title: "HolowExec",
         packname: 'HolowExec',
-        description: "this script was created by AlannXD",
-        author: 'AlannXD',
+        description: "this script was created by OnlyF!XA??",
+        author: 'OnlyF!XA??',
         footer: "Holow — Execution"
     },
     newsletter: {
-        name: "AlannXD",
+        name: "OnlyF!XA??",
         id: "120363387182851100@newsletter"
     },
     socialMedia: {
-        GitHub: "https://github.com/alannzxd",
-        Telegram: "https://t.me/alannxd"
+        WhatsApp: "https://whatsapp.com/channel/0029Vb8MSy7KLaHp4Xkmmw1T",
+        Telegram: "https://t.me/fixaupdates"
     }
 }
 

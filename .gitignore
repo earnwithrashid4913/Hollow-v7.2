@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Lockfile generated under --legacy-peer-deps (project ships without one)
+package-lock.json
+
+# Runtime state
+sessions/
+system/tmp/*
+
+# Environment / logs
+.env
+*.log
