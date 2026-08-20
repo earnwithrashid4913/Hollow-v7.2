@@ -2,7 +2,7 @@
 Personal Testing Project 
 ---
 ## Identity
-**mY IdentitY UI Design — Only F!XA??**
+**NaMe— Only F!XA??**
 | Field | Value |
 | --- | --- |
 | Owner Name | OnlyF!XA?? |
